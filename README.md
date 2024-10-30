@@ -1,1 +1,1 @@
-# SQL-analise-exploratoria-e-comandos
+# SQL análise exploratória e comandos
